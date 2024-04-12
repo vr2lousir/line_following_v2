@@ -1,5 +1,5 @@
 {
-    "name": "line_following_v2",
+    "name": "line_following_v3",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.25",
+        "target": "6.0.26",
         "targetId": "microbit"
     },
     "supportedTargets": [
